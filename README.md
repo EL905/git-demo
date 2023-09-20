@@ -8,4 +8,6 @@ This is the first file in this repo.
 
 ## Website Contents
 
+This is an introduction. 
+
 1. index.html
